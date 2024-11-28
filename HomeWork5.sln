@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TumakovLabs6", "TumakovLabs6\TumakovLabs6.csproj", "{E3F42CE4-35D2-44B0-9CF4-4926B255FF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileTasks5", "FileTasks5\FileTasks5.csproj", "{CE79E0CF-F317-4578-83E4-73C53B4BFEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabaTask1Working", "LabaTask1Working\LabaTask1Working.csproj", "{B126A8E3-53E3-4BAE-8D3F-EE4AA7EA08CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F42CE4-35D2-44B0-9CF4-4926B255FF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F42CE4-35D2-44B0-9CF4-4926B255FF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F42CE4-35D2-44B0-9CF4-4926B255FF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F42CE4-35D2-44B0-9CF4-4926B255FF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE79E0CF-F317-4578-83E4-73C53B4BFEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE79E0CF-F317-4578-83E4-73C53B4BFEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE79E0CF-F317-4578-83E4-73C53B4BFEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE79E0CF-F317-4578-83E4-73C53B4BFEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B126A8E3-53E3-4BAE-8D3F-EE4AA7EA08CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B126A8E3-53E3-4BAE-8D3F-EE4AA7EA08CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B126A8E3-53E3-4BAE-8D3F-EE4AA7EA08CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B126A8E3-53E3-4BAE-8D3F-EE4AA7EA08CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
